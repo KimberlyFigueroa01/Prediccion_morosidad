@@ -1,0 +1,14 @@
+,IV,fuerza,p_mann_whitney,corr_con_impago,p_chi2,v_cramer
+salary,0.8378,Fuerte,0.0,-0.359,,
+credit_score,0.733,Fuerte,0.0,-0.332,,
+number_of_children,0.6167,Fuerte,0.0,0.305,0.0,0.347
+years_of_education,0.3926,Fuerte,0.0,-0.259,,
+years_in_current_job,0.2278,Medio,0.0,-0.218,,
+age,0.1037,Medio,8.367115511436054e-161,-0.144,,
+has_criminal_records,0.0139,Sin poder predictivo,,,1.5457547007776532e-26,0.056
+application_year,0.0011,Sin poder predictivo,,,,
+credit_card_provider,0.0008,Sin poder predictivo,,,0.7368219345930183,0.013
+number_of_credit_cards,0.0004,Sin poder predictivo,,,0.5677202986056222,0.009
+email_domain,0.0001,Sin poder predictivo,,,0.6547916152236769,0.005
+is_married,0.0,Sin poder predictivo,,,0.814099008366151,0.001
+smoker,0.0,Sin poder predictivo,,,0.8795689529064986,0.001
