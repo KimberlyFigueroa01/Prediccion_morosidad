@@ -1,0 +1,25 @@
+,tipo,valores_unicos,nulos,pct_nulos,ejemplo
+car_licence_plate,object,35996,0,0.0,HQK 648
+age,int64,26,0,0.0,33
+credit_card_provider,object,10,0,0.0,JCB 16 digit
+salary,int64,6929,0,0.0,8424
+has_criminal_records,bool,2,0,0.0,False
+company,object,27590,0,0.0,"Soto, Smith and Heath"
+number_of_credit_cards,int64,5,0,0.0,2
+application_date,object,35991,0,0.0,2013-07-23 09:29:24
+years_in_current_job,int64,26,0,0.0,14
+credit_score,int64,952,0,0.0,670
+phone_number,object,36000,0,0.0,1-980-158-4069x08826
+number_of_children,int64,7,0,0.0,2
+is_married,bool,2,0,0.0,False
+name,object,30179,0,0.0,Tiffany Moon
+email_domain,object,3,0,0.0,hotmail.com
+years_of_education,int64,31,0,0.0,12
+current_job,object,639,0,0.0,"Education officer, museum"
+credit_card_expire,object,121,0,0.0,04/21
+smoker,bool,2,0,0.0,False
+credit_card_number,int64,36000,0,0.0,30450330820540
+address,object,36000,0,0.0,"0434 Cabrera Light Suite 778
+Lake Jamietown, MS 33468-0102"
+application_id,object,36000,0,0.0,QLTU2262744640839
+defaulted_loan,bool,2,0,0.0,False
